@@ -20,7 +20,7 @@ public class SpringJenkinsIntegrationApplication {
 
 	public static void main(String[] args) {
 
-		logger.info("--Inside main method Applicaiton Started ----");
+		logger.info("--Inside Main method, Applicaiton Started ----");
 
 		SpringApplication.run(SpringJenkinsIntegrationApplication.class, args);
 	}
